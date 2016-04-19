@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>JetBrains.XunitTemplates</id>
+    <title>xUnit.net Live Templates</title>
+    <version>1.0.0</version>
+    <authors>JetBrains</authors>
+    <owners>JetBrains</owners>
+    <description>Live Templates for xUnit.net</description>
+    <summary>Live Templates for xUnit.net</summary>
+    <projectUrl>https://github.com/JetBrains/resharper-xunit-templates</projectUrl>
+    <licenseUrl>https://raw.githubusercontent.com/xunit/resharper-xunit-templates/master/license.txt</licenseUrl>
+    <iconUrl>https://raw.githubusercontent.com/xunit/media/master/logo-512-transparent.png</iconUrl>
+    <copyright>Copyright 2016 JetBrains</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+      <dependency id="Wave" version="5.0" />
+    </dependencies>
+    <tags>resharper unittest xunit test templates</tags>
+  </metadata>
+  <files>
+    <file src="templates\templates.dotSettings"
+          target="DotFiles\Extensions\JetBrains.XunitTemplates\settings\templates.dotSettings" />
+  </files>
+</package>
