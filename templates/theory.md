@@ -14,7 +14,7 @@ DataAttribute-expression: completeSmart()
 Create theory method
 
 ```
-[Xunit.Extensions.TheoryAttribute]
+[Xunit.TheoryAttribute]
 [$DataAttribute$]
 public void $TheoryMethodName$($parameters$)
 {
