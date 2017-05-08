@@ -3,11 +3,14 @@
   <metadata>
     <id>JetBrains.XunitTemplates</id>
     <title>xUnit.net Live Templates</title>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <authors>JetBrains</authors>
     <owners>JetBrains</owners>
     <description>Live Templates for xUnit.net</description>
     <summary>Live Templates for xUnit.net</summary>
+    <releaseNotes>
+&#8226; Theory template uses xunit 2 namespace (#1 - thanks @Jogge!)
+    </releaseNotes>
     <projectUrl>https://github.com/JetBrains/resharper-xunit-templates</projectUrl>
     <licenseUrl>https://raw.githubusercontent.com/xunit/resharper-xunit-templates/master/license.txt</licenseUrl>
     <iconUrl>https://raw.githubusercontent.com/xunit/media/master/logo-512-transparent.png</iconUrl>
