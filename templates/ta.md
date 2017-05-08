@@ -12,5 +12,5 @@ scopes: InCSharpFile(minimumLanguageVersion=2.0)
 xUnit.net TheoryAttribute
 
 ```
-[Xunit.Extensions.TheoryAttribute]$END$
+[Xunit.TheoryAttribute]$END$
 ```
