@@ -1,3 +1,5 @@
+[![official JetBrains project](http://jb.gg/badges/official-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 # ReSharper Live Templates for xUnit.net
 
 This extension adds various Live Templates for [xUnit.net](http://xunit.github.io/) to ReSharper.
